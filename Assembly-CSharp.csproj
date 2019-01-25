@@ -63,7 +63,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BackButton.cs" />
     <Compile Include="Assets\Scripts\CubeController.cs" />
-    <Compile Include="Assets\Scripts\PictureChange.cs" />
+    <Compile Include="Assets\Scripts\PictureControl.cs" />
+    <Compile Include="Assets\Scripts\ResetSwipes.cs" />
+    <Compile Include="Assets\Scripts\SaveLoad.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/vscho/Desktop/SynapseTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
